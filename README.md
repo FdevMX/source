@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fredd. I am a person passionate about software development and I am from Mexico.</h2>
+<h2 align="left">Hi 👋! My name is Fredd. I am from Mexico.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/FdevMX/source/blob/5734561fb660d5cf4b4276d388e5ee73b6cd2afb/8lvfk8.gif"  />
 
 ###
 
